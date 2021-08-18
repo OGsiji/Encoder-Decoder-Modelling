@@ -41,6 +41,11 @@ Encoder reads the input sequence and summarizes the information in something cal
 The hidden states h_i are computed using the formula:
 Encoder-Decoder Sequence to Sequence : Encoder formula
 
+
+![Image of Yaktocat](https://miro.medium.com/max/474/1*4mHGvQAV6UN_t_PbZuXwhQ.png)
+
+![Image of Yaktocat](https://miro.medium.com/max/764/1*aBv8MhvfseL_pTFBqiIrog.png)
+
 Encoder-Decoder Sequence to Sequence : Encoder
 
 The LSTM reads the data, one sequence after the other. Thus if the input is a sequence of length ‘t’, we say that LSTM reads it in ‘t’ time steps.
